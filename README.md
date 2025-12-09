@@ -19,8 +19,6 @@ Driven by technology and connected to the world, I'm always eager to learn, grow
 ![](https://nirzak-streak-stats.vercel.app/?user=NatanCesar&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCesar&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NatanCesar&theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
